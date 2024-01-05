@@ -2,7 +2,7 @@ repo_name: AlexcastroDev/array_group_by_wasm
 report_id: 18c402815224e36bf54d560f11e8a5d8
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-02T14:22:08+00:00'
+timestamp: '2024-01-05T08:12:06+00:00'
 requested_by: AlexcastroDev
 provider: github
 branch: main
@@ -17,6 +17,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/AlexcastroDev/array_group_by_wasm
   detection_source: Repo Metadata
 - name: Rust
   description: A safe, concurrent, practical language
@@ -26,6 +27,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1070/v7txhrjp9pdqrkdtxxp0.png
+  detection_source_url: https://github.com/AlexcastroDev/array_group_by_wasm
   detection_source: Repo Metadata
 - name: Git
   description: Fast, scalable, distributed revision control system
@@ -35,6 +37,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/AlexcastroDev/array_group_by_wasm
   detection_source: Repo Metadata
 - name: Webpack
   description: A bundler for javascript and friends
@@ -58,6 +61,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Front End Package Manager
   image_url: https://img.stackshare.io/service/5848/44mC-kJ3.jpg
+  detection_source_url: https://github.com/AlexcastroDev/array_group_by_wasm/blob/main/www/yarn.lock
   detection_source: www/yarn.lock
   last_updated_by: Alex Oliveira
   last_updated_on: 2023-02-12 21:36:33.000000000 Z
@@ -69,6 +73,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Front End Package Manager
   image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/AlexcastroDev/array_group_by_wasm/blob/main/www/package.json
   detection_source: www/package.json
   last_updated_by: Alex Oliveira
   last_updated_on: 2023-02-12 21:36:33.000000000 Z
